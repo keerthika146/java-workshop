@@ -1,4 +1,4 @@
-package temperaturedata;
+package workshop;
 
 public class zone {
       private String name;
