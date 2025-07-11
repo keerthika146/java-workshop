@@ -10,10 +10,11 @@ public class NameGenerater{
                 System.out.println("Enter your gender");
                 String gender=Scanner.next();
                 System.out.println("Enter your qualification");
-                String qualification=.Scanner();
+                String qualification=Scanner();
                 StringBuilder sb=new StringBuilder();
                 if("Female".equalsIgnoreCase(gender)){
                     sb.append("miss").append(gender);
                 } 
             }
 }
+ 
