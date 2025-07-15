@@ -1,6 +1,6 @@
-package workshop.beans;
+package workshop.beans.string;
 public record Organaization(String name,
-                String completeAddress,
+                String description,
                 String website,
                 String email,
                 String contactNumber,

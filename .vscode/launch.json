@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "name/JDBCExample",
+            "request": "launch",
+            "mainClass": "name/JDBCExample",
+            "projectName": "java-workshop"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "greetings",
+            "request": "launch",
+            "mainClass": "greetings",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "workshop.Calculator",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddSplitExample",
+            "request": "launch",
+            "mainClass": "workshop.Stream.EvenOddSplitExample",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "JDBCExample",
+            "request": "launch",
+            "mainClass": "workshop.Temperaturedata.JDBCExample",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "AgeCalculator",
+            "request": "launch",
+            "mainClass": "workshop.basics.AgeCalculator",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "NameGenerater",
+            "request": "launch",
+            "mainClass": "workshop.basics.NameGenerater",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "RegistrationEndTime",
+            "request": "launch",
+            "mainClass": "workshop.basics.RegistrationEndTime",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "RegistrationTimeLeft",
+            "request": "launch",
+            "mainClass": "workshop.basics.RegistrationTimeLeft",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "CharacterBaseReaderExample",
+            "request": "launch",
+            "mainClass": "workshop.basics.Standardlibs.CharacterBaseReaderExample",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "FileCopyUsingBinary",
+            "request": "launch",
+            "mainClass": "workshop.basics.Standardlibs.FileCopyUsingBinary",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "TemperatureApplication",
+            "request": "launch",
+            "mainClass": "workshop.beans.TemperatureApplication",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilderExample",
+            "request": "launch",
+            "mainClass": "workshop.beans.string.StringBuilderExample",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "ListMarks",
+            "request": "launch",
+            "mainClass": "workshop.collection.ListMarks",
+            "projectName": "java-workshop_a9313c0"
+        },
+        {
+            "type": "java",
+            "name": "NameStartsWithSCount",
+            "request": "launch",
+            "mainClass": "workshop.collection.NameStart.NameStartsWithSCount",
+            "projectName": "java-workshop_a9313c0"
+        }
+    ]
+}
